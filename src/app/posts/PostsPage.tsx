@@ -14,7 +14,7 @@ async function PostsPage() {
           name="title"
           placeholder="Nome do Post"
           required
-          className="border border-gray-300 p-2 rounded mb-2 w-full"
+          className="border border-gray-300 p-2 rounded mb-2 w-full text-black"
         />
         <button
           type="submit"
